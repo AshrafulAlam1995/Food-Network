@@ -5,16 +5,18 @@ body{
 .flex-con{
   display: flex;
   margin-bottom: 120px;
+}
+.top-banner{
   background-image: url(images/Frame\ 58.jpg);
   background-repeat: no-repeat;
 }
 .width-mutuality{
   width: 50%;
-  margin-left: 1%;
-  padding: 1%;
+  margin-left: 2%;
+  padding: 2%;
 }
 .width-mutuality img{
-  width: 100%;
+  width: 90%;
 }
 .color-rgb{
   color: rgb(255, 94, 0);
@@ -29,4 +31,8 @@ body{
 }
 h1{
   font-size: 35px;
+}
+.my-details{
+  background-image: url(images/Frame\ 57.jpg);
+  background-repeat: no-repeat;
 }
