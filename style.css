@@ -36,3 +36,37 @@ h1{
   background-image: url(images/Frame\ 57.jpg);
   background-repeat: no-repeat;
 }
+.recipes{
+  text-align: center;
+  color: blue;
+}
+.food-items{
+  display: flex;
+}
+.width-mutuality2{
+  box-shadow: 10px 10px 20px blue;
+  width: 27%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+.width-mutuality2 img{
+  width: 100%;
+}
+#thai-item{
+  border-left: solid 5px;
+  padding-left: 1%;
+  border-image: linear-gradient( to top, orange, tomato);
+  border-image-slice: 1;
+}
+#beaf-item{
+  border-left: solid 5px;
+  padding-left: 2%;
+  border-image: linear-gradient( to top, blue, cyan);
+  border-image-slice: 1;
+}
+#corn-item{
+  border-left: solid 5px;
+  padding-left: 1%;
+  border-image: linear-gradient( to top, green, cyan);
+  border-image-slice: 1;
+}
